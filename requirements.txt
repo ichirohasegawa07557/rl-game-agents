@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+torch
+gymnasium[classic-control]
+imageio
+pillow
+tqdm
+streamlit
+pytest
