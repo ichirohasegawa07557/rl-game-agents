@@ -167,12 +167,3 @@ The following are implemented directly rather than left as future work:
 - GIF visualization
 - Streamlit result viewer
 
-## Future Work
-
-Possible extensions:
-
-- Add PPO
-- Add vectorized environments
-- Add prioritized replay
-- Add Atari ALE support
-- Add model-based RL
